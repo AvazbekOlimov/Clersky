@@ -296,6 +296,98 @@ main{
 .sections{
     display: flex;
 }
+.site-main7{
+    background: #F2EFE6;
+    height: 602px;
+}
+.site-main-contant7{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.site-main-text7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.site-main-contant7 h1{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 47px;
+    line-height: 54px;
+    text-align: center;
+    color: #163A24;
+}
+.site-main-contant7 h4{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+
+}
+.site-main-texts{
+    width: 286px;
+}
+.site-main-texts h3{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #163A24;
+}
+.site-main-texts h2{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    text-align: center;
+    color: #163A24;
+}
+.site-main8{
+    background: #F2EFE6;
+}
+.site-main-contant8{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.site-main8-text{
+    width: 394px;
+    height: 230px;
+    align-items: center;
+}
+.site-main8-text h2{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24;
+}
+.site-main8-text p{
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+    padding-bottom: 18px;
+}
+.site-main8-text a{
+    background:#198C36;
+    color: #FBFAF7;
+    padding: 12px 18px ;
+    border-radius: 24px;
+    text-decoration: none;
+}
 .site-footer{
     display: flex;
     justify-content: space-between;
