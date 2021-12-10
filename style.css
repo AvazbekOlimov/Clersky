@@ -199,6 +199,34 @@ main{
     color: #163A24;
     width: 760px;
 }
+.site-main5{
+    background: #fff;
+    height: 730px;
+}
+.site-main-contant5{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.site-main-text{
+    width: 380px;
+}
+.site-main-text h2{
+    font-family: 'Playfair Display', serif; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    color: #163A24;
+}
+.site-main-text p{
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #163A24;
+}
 .site-footer{
     display: flex;
     justify-content: space-between;
